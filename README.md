@@ -1,4 +1,4 @@
-# **DCM API Trafficking Tool (Merlin v1.0 Beta)**
+# **DCM API Trafficking Tool**
 
 Google Sheets based tool to perform bulk tasks to DCM accounts using DCM API.
 
